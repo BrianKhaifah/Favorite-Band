@@ -84,7 +84,7 @@
     font-family: "TrendSansW00-Four";
 }
 .sec-row h2{
-    font-size: 60px !important;
+    font-size: 60px;
 }
 .mem{
     display: flex;
